@@ -1,0 +1,25 @@
+{
+    "name": "Sheri Griffith",
+    "age": 100,
+    "address": {
+        "street": "Murphy Walk",
+        "city": "North Shawnchester",
+        "state": "Nebraska",
+        "zip": "24474"
+    },
+    "contact": {
+        "phone": "(397)874-2226",
+        "servicePhone": "800016023"
+    },
+    "birthday": "1925-30-08",
+    "ip": "107.210.20.82",
+    "foo": "bar",
+    "profile": {
+        "about": "Red produce official message treat offer American firm. Goal Congress main three three know yeah.\nClass international data others. Middle phone catch station production call.",
+        "bio": "Institution drop several yet black. Must matter little that. Compare admit country cut help.\nBut see simply difference. Pretty skin pretty rate find trial bed. Table head third return former arrive."
+    },
+    "currency": [
+        "CUP",
+        "Cuban peso"
+    ]
+}
