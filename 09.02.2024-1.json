@@ -1,0 +1,25 @@
+{
+    "name": "Penny Smith",
+    "age": 101,
+    "address": {
+        "street": "Jordan Squares",
+        "city": "East Mark",
+        "state": "Michigan",
+        "zip": "51482"
+    },
+    "contact": {
+        "phone": "+1-655-283-6413x9553",
+        "servicePhone": "800945793"
+    },
+    "birthday": "1924-18-02",
+    "ip": "91.82.79.145",
+    "foo": "bar",
+    "profile": {
+        "about": "Become state other student. Approach new just create mother security. Left score public next need.",
+        "bio": "Usually road office nor certainly budget. Call former deep treatment spend friend. Activity treatment peace even fish edge team.\nBlood firm least weight purpose seem. These race administration place."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}
