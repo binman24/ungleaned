@@ -1,0 +1,25 @@
+{
+    "name": "Lindsey Thompson",
+    "age": 35,
+    "address": {
+        "street": "Gray Manor",
+        "city": "East Sherri",
+        "state": "Florida",
+        "zip": "27300"
+    },
+    "contact": {
+        "phone": "+1-997-206-6850x546",
+        "servicePhone": "800480832"
+    },
+    "birthday": "1990-28-01",
+    "ip": "33.137.43.91",
+    "foo": "bar",
+    "profile": {
+        "about": "Individual ball child environment agency discuss floor reflect. Small represent agree decide.\nAccept but summer produce. Sound charge country price tend become far. Hundred wait light second.",
+        "bio": "Increase year nice outside. Of possible ball.\nPerhaps production message rise foot. Network per relate. Picture realize rock drive."
+    },
+    "currency": [
+        "CHF",
+        "Swiss franc"
+    ]
+}
