@@ -1,0 +1,25 @@
+{
+    "name": "Alicia Wilson",
+    "age": 30,
+    "address": {
+        "street": "Smith Terrace",
+        "city": "Valeriebury",
+        "state": "Delaware",
+        "zip": "48288"
+    },
+    "contact": {
+        "phone": "365.416.5024",
+        "servicePhone": "800389610"
+    },
+    "birthday": "1995-27-11",
+    "ip": "207.127.202.114",
+    "foo": "bar",
+    "profile": {
+        "about": "Crime yourself series job idea community person.\nBehind camera will film since. Mind between generation send say act.",
+        "bio": "Police test soon laugh. Without stand trade buy positive fear phone.\nStructure stuff run health respond. Now discover suffer perform build citizen. Answer sea nor sit indicate seat."
+    },
+    "currency": [
+        "YER",
+        "Yemeni rial"
+    ]
+}
