@@ -1,0 +1,25 @@
+{
+    "name": "Casey Lynch",
+    "age": 95,
+    "address": {
+        "street": "Johnson Spur",
+        "city": "Lake Jessica",
+        "state": "Ohio",
+        "zip": "93478"
+    },
+    "contact": {
+        "phone": "(361)537-5883x1354",
+        "servicePhone": "800163133"
+    },
+    "birthday": "1930-26-11",
+    "ip": "154.11.254.113",
+    "foo": "bar",
+    "profile": {
+        "about": "Continue best month chair subject name general. Arrive billion by. Set throw direction what similar house road.\nAhead five power strong four grow. Theory consumer change shoulder.",
+        "bio": "True word sell four walk. College leave standard recently leave card people."
+    },
+    "currency": [
+        "COP",
+        "Colombian peso"
+    ]
+}
