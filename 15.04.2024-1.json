@@ -1,0 +1,25 @@
+{
+    "name": "David Walker",
+    "age": 1,
+    "address": {
+        "street": "Kelly Meadows",
+        "city": "Dylantown",
+        "state": "Delaware",
+        "zip": "01400"
+    },
+    "contact": {
+        "phone": "+1-374-419-1562x5223",
+        "servicePhone": "800154451"
+    },
+    "birthday": "2024-19-04",
+    "ip": "197.251.3.145",
+    "foo": "bar",
+    "profile": {
+        "about": "Wear power sell our. Possible together player trade describe should catch.\nFollow teacher indicate old far allow despite project. Street hear small.",
+        "bio": "Might either against involve ten finally specific. Dog son artist film home.\nHead again story recent present kid stuff.\nTell place region pressure certain strong organization."
+    },
+    "currency": [
+        "MYR",
+        "Malaysian ringgit"
+    ]
+}
