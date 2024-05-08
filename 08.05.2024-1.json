@@ -1,0 +1,25 @@
+{
+    "name": "Justin Clark",
+    "age": 15,
+    "address": {
+        "street": "Kayla Drives",
+        "city": "South Jeanette",
+        "state": "Oklahoma",
+        "zip": "66142"
+    },
+    "contact": {
+        "phone": "6839835726",
+        "servicePhone": "800807576"
+    },
+    "birthday": "2010-22-02",
+    "ip": "105.119.34.102",
+    "foo": "bar",
+    "profile": {
+        "about": "Rule remain which figure ready past material goal. Different our loss forward. Artist section site clear apply vote speak magazine.",
+        "bio": "Current policy long world reveal board. Dog try operation blood. Measure development south affect question and worry. Discover child medical bed amount."
+    },
+    "currency": [
+        "JPY",
+        "Japanese yen"
+    ]
+}
