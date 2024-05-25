@@ -1,0 +1,25 @@
+{
+    "name": "Melissa Waller",
+    "age": 58,
+    "address": {
+        "street": "Katherine Inlet",
+        "city": "Rowebury",
+        "state": "Kentucky",
+        "zip": "54452"
+    },
+    "contact": {
+        "phone": "412.237.9582",
+        "servicePhone": "800905102"
+    },
+    "birthday": "1967-28-05",
+    "ip": "75.139.12.204",
+    "foo": "bar",
+    "profile": {
+        "about": "Us upon simple kind everything east.",
+        "bio": "Some quality prove television decide over. Edge build travel news throughout truth start. First voice believe boy continue top entire.\nOver role movement knowledge law pick bag. Hand adult happy."
+    },
+    "currency": [
+        "DZD",
+        "Algerian dinar"
+    ]
+}
