@@ -1,0 +1,25 @@
+{
+    "name": "Robert Williams",
+    "age": 96,
+    "address": {
+        "street": "Juan Crossroad",
+        "city": "Franklinbury",
+        "state": "Kansas",
+        "zip": "67870"
+    },
+    "contact": {
+        "phone": "001-874-465-8623x734",
+        "servicePhone": "800417517"
+    },
+    "birthday": "1929-25-11",
+    "ip": "134.209.31.129",
+    "foo": "bar",
+    "profile": {
+        "about": "Within provide red then month so. Science yes peace do language describe pay before. Early include organization effect.",
+        "bio": "Maybe theory party area help few itself. Threat performance apply inside any protect weight.\nBudget decade possible understand."
+    },
+    "currency": [
+        "SLL",
+        "Sierra Leonean leone"
+    ]
+}
