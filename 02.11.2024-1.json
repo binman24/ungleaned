@@ -1,0 +1,25 @@
+{
+    "name": "Janice Brooks",
+    "age": 89,
+    "address": {
+        "street": "Kenneth Burg",
+        "city": "West Johnchester",
+        "state": "Connecticut",
+        "zip": "42371"
+    },
+    "contact": {
+        "phone": "472.253.9135x267",
+        "servicePhone": "800202288"
+    },
+    "birthday": "1936-11-01",
+    "ip": "130.169.180.159",
+    "foo": "bar",
+    "profile": {
+        "about": "Civil final cold anyone us. Require understand explain watch less miss. Interesting ten fire.\nInto same care. Head create rate energy smile window able. Across its response they wife.",
+        "bio": "Believe professor amount any. Different step reach share reduce TV surface.\nFinish lay how write head baby. Return laugh day turn yard."
+    },
+    "currency": [
+        "PKR",
+        "Pakistani rupee"
+    ]
+}
