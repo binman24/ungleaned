@@ -1,0 +1,25 @@
+{
+    "name": "Candace Hester",
+    "age": 4,
+    "address": {
+        "street": "Mitchell Gardens",
+        "city": "Port Jaredville",
+        "state": "Georgia",
+        "zip": "74353"
+    },
+    "contact": {
+        "phone": "+1-945-687-4726",
+        "servicePhone": "800025686"
+    },
+    "birthday": "2021-10-03",
+    "ip": "15.50.7.67",
+    "foo": "bar",
+    "profile": {
+        "about": "Behavior father meet system keep million. Design these cover apply traditional.\nCurrent majority daughter people. Skill create his yes color. Myself its meeting want purpose argue break.",
+        "bio": "Until player staff these. Alone power opportunity particularly particularly.\nThought lead society itself their base assume. Figure when teach trade. Music him seat crime."
+    },
+    "currency": [
+        "LKR",
+        "Sri Lankan rupee"
+    ]
+}
