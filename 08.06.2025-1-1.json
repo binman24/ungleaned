@@ -1,0 +1,25 @@
+{
+    "name": "Amber Fuller",
+    "age": 101,
+    "address": {
+        "street": "Anderson Bridge",
+        "city": "Troychester",
+        "state": "Rhode Island",
+        "zip": "19123"
+    },
+    "contact": {
+        "phone": "(555)379-5553x508",
+        "servicePhone": "800698131"
+    },
+    "birthday": "1924-19-01",
+    "ip": "98.113.170.126",
+    "foo": "bar",
+    "profile": {
+        "about": "Heart film it paper. Social him agree boy push. History beyond continue scientist discuss toward step.\nWear various great prepare appear. Chance blue light end say recently pay.",
+        "bio": "Simple explain over build wall participant represent. Effect shake serve I back get. Artist since stock thought why husband."
+    },
+    "currency": [
+        "UYU",
+        "Uruguayan peso"
+    ]
+}

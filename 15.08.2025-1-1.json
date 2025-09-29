@@ -1,0 +1,25 @@
+{
+    "name": "Jennifer Anderson",
+    "age": 110,
+    "address": {
+        "street": "Anderson Rapid",
+        "city": "Ericfurt",
+        "state": "Texas",
+        "zip": "65321"
+    },
+    "contact": {
+        "phone": "001-956-595-0575x632",
+        "servicePhone": "800191162"
+    },
+    "birthday": "1915-24-08",
+    "ip": "34.17.227.166",
+    "foo": "bar",
+    "profile": {
+        "about": "Meeting fund should quite single later. Especially little adult student sit.\nNetwork girl sister. Subject shake save almost TV case around need. Although sort clear.",
+        "bio": "Way effort pretty provide one senior feel. Space may interesting mouth author throughout manager.\nPeople sell stage attorney stock."
+    },
+    "currency": [
+        "SAR",
+        "Saudi riyal"
+    ]
+}

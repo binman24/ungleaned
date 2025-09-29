@@ -1,0 +1,25 @@
+{
+    "name": "Daniel Callahan",
+    "age": 83,
+    "address": {
+        "street": "Anna Islands",
+        "city": "New Emilymouth",
+        "state": "Massachusetts",
+        "zip": "33830"
+    },
+    "contact": {
+        "phone": "001-703-754-8094x53975",
+        "servicePhone": "800673069"
+    },
+    "birthday": "1942-25-07",
+    "ip": "144.9.19.124",
+    "foo": "bar",
+    "profile": {
+        "about": "Agent boy everybody accept send firm must. Whatever marriage federal west line strong since.",
+        "bio": "Similar right rather war window along true. Section wear level mother yourself little like. Matter and discussion sing. Pattern bill whether notice capital easy plan."
+    },
+    "currency": [
+        "BMD",
+        "Bermudian dollar"
+    ]
+}

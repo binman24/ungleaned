@@ -1,0 +1,25 @@
+{
+    "name": "Amy Martin",
+    "age": 103,
+    "address": {
+        "street": "Bell Crest",
+        "city": "Butlerchester",
+        "state": "Minnesota",
+        "zip": "73517"
+    },
+    "contact": {
+        "phone": "001-240-492-1044x982",
+        "servicePhone": "800254988"
+    },
+    "birthday": "1922-26-08",
+    "ip": "193.44.224.3",
+    "foo": "bar",
+    "profile": {
+        "about": "Standard trial term offer take car million. Good public blue lawyer decade.\nOld until finally truth them head quality direction. Whole response trade.",
+        "bio": "Often something industry guy war least read. System weight natural and off room. Low possible resource Mrs method item.\nNever face collection up stuff painting."
+    },
+    "currency": [
+        "SGD",
+        "Singapore dollar"
+    ]
+}

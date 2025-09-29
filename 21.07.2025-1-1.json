@@ -1,0 +1,25 @@
+{
+    "name": "Tracy Atkinson",
+    "age": 46,
+    "address": {
+        "street": "Kim Forks",
+        "city": "Kirkmouth",
+        "state": "Arkansas",
+        "zip": "09664"
+    },
+    "contact": {
+        "phone": "+1-570-367-8827x2252",
+        "servicePhone": "800743184"
+    },
+    "birthday": "1979-23-11",
+    "ip": "70.80.82.209",
+    "foo": "bar",
+    "profile": {
+        "about": "Page soldier wife language. Population mind girl campaign sing performance.\nFederal open happen family. Direction animal various determine kid.",
+        "bio": "Learn job do you leg. Hospital physical agreement son.\nProduce arrive create meeting without down option. Three now will."
+    },
+    "currency": [
+        "PAB",
+        "Panamanian balboa"
+    ]
+}
