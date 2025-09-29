@@ -1,0 +1,25 @@
+{
+    "name": "Chris Roberts",
+    "age": 81,
+    "address": {
+        "street": "Williams Camp",
+        "city": "Lake Ralph",
+        "state": "New Hampshire",
+        "zip": "40722"
+    },
+    "contact": {
+        "phone": "559.952.8323x10694",
+        "servicePhone": "800132570"
+    },
+    "birthday": "1944-01-04",
+    "ip": "16.161.12.11",
+    "foo": "bar",
+    "profile": {
+        "about": "Make discover quickly. Remain rather interview office imagine brother sea.",
+        "bio": "Service human lawyer natural his together maintain. Continue research yes opportunity industry. Administration among sport new beautiful whose husband."
+    },
+    "currency": [
+        "ZAR",
+        "South African rand"
+    ]
+}
