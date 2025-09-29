@@ -1,0 +1,25 @@
+{
+    "name": "David Greene",
+    "age": 12,
+    "address": {
+        "street": "Ingram Locks",
+        "city": "New Kristopherville",
+        "state": "Massachusetts",
+        "zip": "46626"
+    },
+    "contact": {
+        "phone": "(610)504-6453",
+        "servicePhone": "800182802"
+    },
+    "birthday": "2013-20-08",
+    "ip": "92.42.166.8",
+    "foo": "bar",
+    "profile": {
+        "about": "Ready management follow necessary reach so. Mean sport suffer.\nVoice rather health away. Property tree parent food. About speak growth week for.",
+        "bio": "Drop reveal vote alone nation. For happy west green Mrs. Institution race including authority including give people."
+    },
+    "currency": [
+        "BBD",
+        "Barbadian dollar"
+    ]
+}
