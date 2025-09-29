@@ -1,0 +1,25 @@
+{
+    "name": "Kristen Hernandez",
+    "age": 70,
+    "address": {
+        "street": "Thompson Spur",
+        "city": "Davisview",
+        "state": "New Jersey",
+        "zip": "57090"
+    },
+    "contact": {
+        "phone": "(868)563-9919x41818",
+        "servicePhone": "800404130"
+    },
+    "birthday": "1955-20-03",
+    "ip": "25.222.253.57",
+    "foo": "bar",
+    "profile": {
+        "about": "Large seek week sport reach. Already decision whole remember.\nCenter present mind image. Project summer particularly hotel accept. College glass attention similar find.",
+        "bio": "Option I whose out get contain give art. Meeting strategy such politics hit relationship million material. Second money debate walk.\nHerself clearly interesting rest. City necessary body."
+    },
+    "currency": [
+        "SPL",
+        "Seborga luigino"
+    ]
+}
