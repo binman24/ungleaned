@@ -1,0 +1,25 @@
+{
+    "name": "Ashlee Levine",
+    "age": 47,
+    "address": {
+        "street": "Clark Points",
+        "city": "West Ryan",
+        "state": "California",
+        "zip": "57084"
+    },
+    "contact": {
+        "phone": "001-997-956-4420",
+        "servicePhone": "800327794"
+    },
+    "birthday": "1978-19-11",
+    "ip": "91.40.104.116",
+    "foo": "bar",
+    "profile": {
+        "about": "Media east memory. Establish something in green.\nActually ask but black. Race outside scientist despite. Staff cup modern film appear glass law piece.",
+        "bio": "Five then check college never safe. Section year less teach close budget should. Agent citizen choose.\nWould with lose."
+    },
+    "currency": [
+        "XOF",
+        "West African CFA franc"
+    ]
+}
